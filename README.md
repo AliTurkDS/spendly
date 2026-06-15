@@ -8,14 +8,14 @@ Offline-first personal finance tracker. Log income and expenses, visualise spend
 
 <table>
   <tr>
-    <td><img src="Screenshots/1.jpeg" width="200"/></td>
-    <td><img src="Screenshots/2.jpeg" width="200"/></td>
-    <td><img src="Screenshots/3.jpeg" width="200"/></td>
+    <td align="center"><img src="Screenshots/1.jpeg" width="200"/><br/>Overview (Light)</td>
+    <td align="center"><img src="Screenshots/3.jpeg" width="200"/><br/>History (Light)</td>
+    <td align="center"><img src="Screenshots/2.jpeg" width="200"/><br/>Analytics (Light)</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/4.jpeg" width="200"/></td>
-    <td><img src="Screenshots/5.jpeg" width="200"/></td>
-    <td><img src="Screenshots/6.jpeg" width="200"/></td>
+    <td align="center"><img src="Screenshots/4.jpeg" width="200"/><br/>Overview (Dark)</td>
+    <td align="center"><img src="Screenshots/6.jpeg" width="200"/><br/>History (Dark)</td>
+    <td align="center"><img src="Screenshots/5.jpeg" width="200"/><br/>Analytics (Dark)</td>
   </tr>
 </table>
 
