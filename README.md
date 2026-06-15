@@ -4,6 +4,23 @@ Offline-first personal finance tracker. Log income and expenses, visualise spend
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="Screenshots/1.jpeg" width="200"/></td>
+    <td><img src="Screenshots/2.jpeg" width="200"/></td>
+    <td><img src="Screenshots/3.jpeg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/4.jpeg" width="200"/></td>
+    <td><img src="Screenshots/5.jpeg" width="200"/></td>
+    <td><img src="Screenshots/6.jpeg" width="200"/></td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 | Feature | Detail |
